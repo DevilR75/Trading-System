@@ -1,4 +1,4 @@
-# Main script for the Exchange Application using RabbitMQ – manages order matching and trade execution.
+# Main script for the Exchange Application using RabbitMQ – manages order matching and trade execution
 import argparse
 import json
 import pika
